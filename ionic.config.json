@@ -1,0 +1,8 @@
+{
+  "name": "lclink",
+  "app_id": "2ba092f3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
